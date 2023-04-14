@@ -1,0 +1,15 @@
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\bin\Debug\net6.0\Unit_3_Student_Database_Lab.exe
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\bin\Debug\net6.0\Unit_3_Student_Database_Lab.deps.json
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\bin\Debug\net6.0\Unit_3_Student_Database_Lab.runtimeconfig.json
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\bin\Debug\net6.0\Unit_3_Student_Database_Lab.dll
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\bin\Debug\net6.0\Unit_3_Student_Database_Lab.pdb
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\obj\Debug\net6.0\Unit_3_Student_Database_Lab.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\obj\Debug\net6.0\Unit_3_Student_Database_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\obj\Debug\net6.0\Unit_3_Student_Database_Lab.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\obj\Debug\net6.0\Unit_3_Student_Database_Lab.AssemblyInfo.cs
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\obj\Debug\net6.0\Unit_3_Student_Database_Lab.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\obj\Debug\net6.0\Unit_3_Student_Database_Lab.dll
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\obj\Debug\net6.0\refint\Unit_3_Student_Database_Lab.dll
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\obj\Debug\net6.0\Unit_3_Student_Database_Lab.pdb
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\obj\Debug\net6.0\Unit_3_Student_Database_Lab.genruntimeconfig.cache
+C:\Users\harry\Desktop\Grand Circus\Unit_3_Student_Database_Lab\Unit_3_Student_Database_Lab\obj\Debug\net6.0\ref\Unit_3_Student_Database_Lab.dll
